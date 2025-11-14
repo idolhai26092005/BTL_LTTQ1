@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LapTrinhTrucQuan\\QLCuaHangThuCung_BTL\\",
+  "WorkspaceRootPath": "D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|d:\\laptrinhtrucquan\\qlcuahangthucung_btl\\qlcuahangthucung_btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|solutionrelative:qlcuahangthucung_btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|d:\\new folder (4)\\btl_lttq1\\qlcuahangthucung_btl\\qlcuahangthucung_btl\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|solutionrelative:qlcuahangthucung_btl\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|d:\\new folder (4)\\btl_lttq1\\qlcuahangthucung_btl\\qlcuahangthucung_btl\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|solutionrelative:qlcuahangthucung_btl\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|d:\\new folder (4)\\btl_lttq1\\qlcuahangthucung_btl\\qlcuahangthucung_btl\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|solutionrelative:qlcuahangthucung_btl\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\qlcuahangthucung_btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4401DE-CCE1-478F-9FE7-9943AC625F11}|QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL.csproj|solutionrelative:qlcuahangthucung_btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loading.cs",
+              "DocumentMoniker": "D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Loading.cs",
+              "RelativeDocumentMoniker": "QLCuaHangThuCung_BTL\\Loading.cs",
+              "ToolTip": "D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Loading.cs",
+              "RelativeToolTip": "QLCuaHangThuCung_BTL\\Loading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:10:08.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loading.Designer.cs",
+              "DocumentMoniker": "D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Loading.Designer.cs",
+              "RelativeDocumentMoniker": "QLCuaHangThuCung_BTL\\Loading.Designer.cs",
+              "ToolTip": "D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Loading.Designer.cs",
+              "RelativeToolTip": "QLCuaHangThuCung_BTL\\Loading.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAYwHwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:06:22.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\LapTrinhTrucQuan\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Form1.cs",
-              "RelativeDocumentMoniker": "QLCuaHangThuCung_BTL\\Form1.cs",
-              "ToolTip": "D:\\LapTrinhTrucQuan\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Form1.cs [Design]",
-              "RelativeToolTip": "QLCuaHangThuCung_BTL\\Form1.cs [Design]",
+              "Title": "Loading.cs [Design]",
+              "DocumentMoniker": "D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Loading.cs",
+              "RelativeDocumentMoniker": "QLCuaHangThuCung_BTL\\Loading.cs",
+              "ToolTip": "D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Loading.cs [Design]",
+              "RelativeToolTip": "QLCuaHangThuCung_BTL\\Loading.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T16:47:43.667Z",
+              "WhenOpened": "2025-11-14T12:32:21.288Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Program.cs",
+              "RelativeDocumentMoniker": "QLCuaHangThuCung_BTL\\Program.cs",
+              "ToolTip": "D:\\New folder (4)\\BTL_LTTQ1\\QLCuaHangThuCung_BTL\\QLCuaHangThuCung_BTL\\Program.cs",
+              "RelativeToolTip": "QLCuaHangThuCung_BTL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:55:33.154Z",
+              "EditorCaption": ""
             }
           ]
         }

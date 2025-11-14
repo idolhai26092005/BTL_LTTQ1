@@ -1,0 +1,6 @@
+# Thư mục cache của Visual Studio
+.vs/
+
+# Thư mục chứa file build và file chạy
+[Bb]in/
+[Oo]bj/
